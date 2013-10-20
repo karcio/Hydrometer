@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hydrometer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="og">Original gravity (OG)</string>
+    <string name="fg">Final gravity (FG)</string>
+    <string name="calculate">calculate</string>
+    <string name="ac">Alcohol content in %</string>
+    <string name="formula">formula</string>
+    <string name="hint1">ex: 1042</string>
+    <string name="hint2">ex: 1006</string>
+
+</resources>
