@@ -32,7 +32,9 @@
         android:layout_alignParentRight="true"
         android:ems="10"
         android:hint="@string/hint1"
-        android:inputType="number" >
+        android:inputType="number"
+        android:textSize="12sp"
+        android:textStyle="italic" >
     </EditText>
 
     <EditText
@@ -43,7 +45,9 @@
         android:layout_alignTop="@+id/textView2"
         android:ems="10"
         android:hint="@string/hint2"
-        android:inputType="number" >
+        android:inputType="number"
+        android:textSize="12sp"
+        android:textStyle="italic" >
     </EditText>
 
     <TextView
